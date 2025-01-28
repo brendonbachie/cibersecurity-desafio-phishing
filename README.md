@@ -20,4 +20,4 @@
   
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./alura "Optional title")
