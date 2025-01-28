@@ -14,8 +14,10 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://cursos.alura.com.br
 
+- Clonei o site da ALURA pois o Facebook está com proteção para clonagem
+  
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
